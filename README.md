@@ -1,4 +1,2 @@
 # Suyi_Chen
-
-welcome 
-hi
+Hello, Welcome to my profile
